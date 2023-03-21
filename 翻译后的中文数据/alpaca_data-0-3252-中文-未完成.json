@@ -25,10 +25,10 @@
     "output": "我曾经在一家建筑公司担任项目经理的时候，需要在特定日期之前完成一个项目以达到客户的期望。然而，由于意外延误，我们无法按时完成项目，所以我必须做出艰难的决定。我决定将截止日期延长，但这样会使团队资源更加紧张，预算也增加了。虽然这是一项冒险的决定，最终决定继续推进，确保项目能够按时完成并满足客户的期望。"
   },
   {
-    "instruction": "Identify the odd one out.",
+    "instruction": "辨别其中不同的一个。",
     "input": "Twitter, Instagram, Telegram",
     "output": "Telegram"
-  },
+    },
   {
     "instruction": "Explain why the following fraction is equivalent to 1/4",
     "input": "4/16",
